@@ -1,0 +1,2 @@
+flask
+pyramid==1.7
